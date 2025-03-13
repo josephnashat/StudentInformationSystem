@@ -1,0 +1,7 @@
+#Showing table in CMD
+tabulate
+#Showing Text as ASCII in CMD
+rich
+pyfiglet
+#Encrypting password
+bcrypt

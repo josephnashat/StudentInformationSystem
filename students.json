@@ -1,0 +1,24 @@
+[
+    {
+        "name": "b",
+        "age": 2.0,
+        "gender": "female",
+        "student_id": "2",
+        "courses": [
+            "c",
+            "a",
+            "d",
+            "b"
+        ]
+    },
+    {
+        "name": "a",
+        "age": 1.0,
+        "gender": "male",
+        "student_id": "1",
+        "courses": [
+            "a",
+            "b"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "joe",
+        "age": 40,
+        "gender": "Male",
+        "username": "joe",
+        "password": "$2b$12$lY8OOM.FYmujWbANc7fGeOlB5FjsuivNhjCKtWklAKVz2HQ9EfCmO"
+    },
+    {
+        "name": "david",
+        "age": 40.0,
+        "gender": "male",
+        "username": "david",
+        "password": "$2b$12$lY8OOM.FYmujWbANc7fGeOrYmxMbJvwwJP8xcdQEgUCDNdbY7Hp1m"
+    }
+]
